@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "cn.suliu.Toolbox",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Toolbox",
+	"description": "Toolbox is a very useful plug-in, it is a collection of many of my usual work in the study of the necessary functions and tools.",
+	"author": "suliu",
+	"homepage_url": "https://github.com/cestbonsuliu/Toolbox/blob/master/README.md",
+	"repository_url": "https://github.com/cestbonsuliu/Toolbox",
+	"keywords": [],
+	"categories": []
+}
